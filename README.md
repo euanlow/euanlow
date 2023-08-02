@@ -3,7 +3,7 @@
 ## More About Me 
 I am currently working as a Senior Digitalisation Consultant/Specialist, specialising in SAP-related Digitalisation projects.  
 Although my professional life revolves around the SAP ecosystem, I also have a keen interest in technologies outside of SAP - Node JS, Spring Boot, Python, R, just to name a few.
-I love spending my time outside of work reading about technological advances and experimenting with or building software, especially with frameworks or tools that I don't already know. I am also a math enthusiast, and I like studying Mathematical Finance during my free time. 
+I love spending my time outside of work reading about technological advances and experimenting with or building software, especially with frameworks or tools that I don't already know. <br> I am also a math enthusiast, and I like studying Mathematical Finance during my free time. 
 You can find some of my mini experiments and/or projects here on Github! <br> 
 Let's connect and collaborate! Feel free to reach out to me, and let's build amazing things together.
 
