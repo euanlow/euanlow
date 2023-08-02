@@ -3,7 +3,7 @@
 ## More About Me 
 I am currently working as a Senior Digitalisation Consultant/Specialist, specialising in SAP-related Digitalisation projects.  
 Even though my work revolves around the SAP ecosystem, I also have a deep interest in topics and projects outside of SAP.<br>
-I love spending my time outside of work reading about technological advances and experimenting with or building software, especially with frameworks or tools that I don't already know. I am also an avid math enthusiast, and am currently exploring concepts in Mathematical Finance during my free time. 
+I love spending my time outside of work reading about technological advances and experimenting with or building software, especially with frameworks or tools that I don't already know. I am also a math enthusiast, and I like exploring concepts in Mathematical Finance during my free time. 
 You can find some of my mini experiments and/or projects here on Github! <br> 
 Let's connect and collaborate! Feel free to reach out to me, and let's build amazing things together.
 
