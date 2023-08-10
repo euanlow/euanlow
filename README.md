@@ -1,7 +1,7 @@
 # Hey There! I'm Euan 👋🏼<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ## More About Me 
-I am currently working as a Senior Digitalisation Consultant/Specialist, specialising in SAP-related Digitalisation projects.  
+I am currently working as a Senior Digitalisation Consultant, specialising in SAP-related Digitalisation projects.  
 Although my professional life revolves around the SAP ecosystem, I also have a keen interest in technologies outside of SAP - Node JS, Spring Boot, Python, R, just to name a few.
 I love spending my time outside of work reading about technological advances and experimenting with or building software, especially with frameworks or tools that I don't already know. <br> I am also a math enthusiast, and I enjoy exploring topics of Mathematical Finance during my free time. I believe that the stock market is full of patterns, and I am fascinated by the prospect of finding such patterns and potentially making a profit from them. <br>
 You can find some of my mini experiments and/or projects here on Github! <br> 
