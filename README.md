@@ -1,10 +1,14 @@
 # Hey There! I'm Euan 👋🏼<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-## More About Me 
-I am currently working as a Senior Digitalisation Consultant, specialising in SAP-related Digitalisation projects.  
-Although my professional life revolves around the SAP ecosystem, I also have a keen interest in technologies outside of SAP - Node JS, Spring Boot, Python, R, just to name a few.
-I love spending my time outside of work reading about technological advances and experimenting with or building software, especially with frameworks or tools that I don't already know. <br> I am also a math enthusiast, and I enjoy exploring topics of Mathematical Finance during my free time. I believe that the stock market is full of patterns, and I am fascinated by the prospect of finding such patterns and potentially making a profit from them. <br>
-You can find some of my mini experiments and/or projects here on Github! <br> 
+## 👨‍💻 More About Me 
+I am a Senior Full Stack Software Engineer / Senior Digitalization Specialist with experience building (end-to-end): 
+* backends in Node.js and Python,
+* frontends with Javascript frameworks such as React and Vue,
+* and database projects in both SQL and NoSQL databases. <br>
+<br>
+I also use, in my daily work, Version Control tools (Git, Git CLI), Cloud Platforms (SAP BTP, Microsoft Azure), CI/CD tools (Jenkins, Azure DevOps), and Product Management tools (Atlassian). <br>
+I have worked mainly in the SAP ecosystem, and am constantly looking for opportunities to expand my skillset beyond the SAP world. <br>
+I am currently located in BASF's Digital Hub Kuala Lumpur, and consulting for BASF on their Digitalization journey. <br>
 Let's connect and collaborate! You can find links to my LinkedIn and my email address below. Feel free to reach out to me, and let's change the world with software! 🚀
 
 
@@ -76,6 +80,6 @@ Full Name: Euan Zheng Hou Low <br>
 
 <!---
 💻 Portfolio: [Your Portfolio Website (if applicable)]
-euanzhlow/euanzhlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+euanlow/euanlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
