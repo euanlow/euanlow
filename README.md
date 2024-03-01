@@ -7,7 +7,7 @@ I am a Senior Full Stack Software Engineer / Senior Digitalization Specialist wi
 🔹 and database projects in both SQL (SAP HANA, SQLite) and NoSQL databases (MongoDB). <br>
 <br>
 I also use, in my daily work, <br>
-🔹Version Control tools (Git - Bitbucket, Git CLI) <br> 
+🔹Version Control tools (Git - Bitbucket and Github, Git CLI) <br> 
 🔹Cloud Platforms (SAP BTP, Microsoft Azure, some AWS) <br> 
 🔹CI/CD tools (Jenkins, Azure DevOps) <br>
 🔹Product Management tools (Atlassian - Jira and Confluence, Azure DevOps Boards and Repos). <br>
