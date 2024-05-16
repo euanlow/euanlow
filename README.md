@@ -23,7 +23,7 @@ Let's connect and collaborate! You can find links to my LinkedIn and my email ad
 Full Name: Euan Zheng Hou Low <br>
 📍 Current Location: Kuala Lumpur, Malaysia <br>
 🎓 Alma Mater: Australian National University (ANU), Canberra, Australia <br>
-🌟 Interests outside work: Mathematical Finance 🗠, Basketball 🏀, Muay Thai 🥊, Cooking 🍳 <br>
+🌟 Interests outside work: Math and Physics 🧪🧲, Basketball 🏀, Muay Thai 🥊, Cooking 🍳 <br>
 
 ## 💻 Technical Skills
 ### Frontend Development
