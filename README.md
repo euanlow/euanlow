@@ -1,7 +1,7 @@
 # Hey There! I'm Euan 👋🏼<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ## 👨‍💻 More About Me 
-I am a Senior Full Stack Software Engineer / Senior Digitalization Specialist with experience building (end-to-end): <br>
+I am a Senior Full Stack Software Engineer / Senior Digitalization Specialist with end-to-end experience building: <br>
 🔹 backends in Node.js, Python, and ABAP <br>
 🔹 frontends with Javascript frameworks such as React and Vue, and SAP Fiori frontends with Javascript (SAPUI5), <br>
 🔹 and database projects in both SQL (SAP HANA, SQLite) and NoSQL databases (MongoDB). <br>
@@ -12,8 +12,8 @@ I also use, in my daily work, <br>
 🔹CI/CD tools (Jenkins, Azure DevOps) <br>
 🔹Product Management tools (Atlassian - Jira and Confluence, Azure DevOps Boards and Repos). <br>
 <br>
-Although I work mainly in the SAP technology ecosystem, I am constantly looking for opportunities to expand my skillset beyond the SAP world. <br>
-I have much interest in new technology, and love learning new things outside of my existing skillset. <br> 
+Although I work mainly in the SAP technology ecosystem, I am constantly looking for opportunities to expand my skillset, outside the SAP world. <br>
+I have much interest in new technology, and love exploring and pushing new boundaries when it comes to technological advances. <br> 
 I am currently located in BASF's Digital Hub Kuala Lumpur, consulting for BASF on their Digitalization journey. <br>
 Let's connect and collaborate! You can find links to my LinkedIn and my email address below. Feel free to reach out to me, and let's change the world with software! 🚀
 
