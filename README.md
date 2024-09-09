@@ -14,7 +14,6 @@ I also use, in my daily work, <br>
 <br>
 Although I work mainly in the SAP technology ecosystem, I am constantly looking for opportunities to expand my skillset, outside the SAP world. <br>
 I have much interest in new technology, and love exploring and pushing new boundaries when it comes to technological advances. <br> 
-I am currently located in BASF's Digital Hub Kuala Lumpur, consulting for BASF on their Digitalization journey. <br>
 Let's connect and collaborate! You can find links to my LinkedIn and my email address below. Feel free to reach out to me, and let's change the world with software! 🚀
 
 
