@@ -20,7 +20,7 @@ Let's connect and collaborate! You can find links to my LinkedIn and my email ad
 
 ## 📫 My Details
 Full Name: Euan Zheng Hou Low <br>
-📍 Current Location: Madrid, Spain 🇪🇸 <br>
+📍 Current Location: Madrid, Spain <br>
 🎓 Alma Mater: Australian National University (ANU), Canberra, Australia <br>
 🌟 Interests outside work: Math and Physics 🧪🧲, Basketball 🏀, Muay Thai 🥊, Cooking 🍳 <br>
 
